@@ -7,7 +7,7 @@ ag_karti = "wlp5s0"
 
 gateway = "192.168.1.1"
 
-hackermac = "fc:3d:df:ed:c3:7d"
+hackermac = "xx:xx:xx:xx:xx:xx"
 
 victimips = "192.168.1.36"
 
